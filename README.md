@@ -7,14 +7,14 @@ Mūsu pirmais Unity 2D projekts par UI elementu lietojumus
 - [x] Izmēģināt UI Text lietojumu
 - [x] Izmēģināt UI Input field lietojumu
 - [x] Izmēģināt UI Panel lietojumu
-- [ ] Izmēģināt UI Image lietojumu
-- [ ] Izmēģināt UI Slider lietojumu
+- [x] Izmēģināt UI Image lietojumu
+- [x] Izmēģināt UI Slider lietojumu
 - [x] Izmēģināt UI Toggle lietojumu
-- [ ] Izmēģināt UI Dropdown lietojumu
+- [x] Izmēģināt UI Dropdown lietojumu
 - [x] Izmēģināt UI Scroll view lietojumu
 - [x] Izveidot C# darbam ar tekstu
-- [ ] Izviedot C# skriptu darbam ar UI attēliem
-- [ ] Izveidot C# skriptu drag and drop funkcionalitātei
+- [x] Izviedot C# skriptu darbam ar UI attēliem
+- [x] Izveidot C# skriptu drag and drop funkcionalitātei
 - [x] Ieviest audio efektus
 - [ ] Ieviest galvenās izvēlnes ainu
 - [ ] Sagatavot projektu Windows OS vai WebGL platformām
