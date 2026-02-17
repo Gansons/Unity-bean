@@ -16,5 +16,7 @@ Mūsu pirmais Unity 2D projekts par UI elementu lietojumus
 - [x] Izviedot C# skriptu darbam ar UI attēliem
 - [x] Izveidot C# skriptu drag and drop funkcionalitātei
 - [x] Ieviest audio efektus
-- [ ] Ieviest galvenās izvēlnes ainu
+- [x] Ieviest galvenās izvēlnes ainu
 - [ ] Sagatavot projektu Windows OS vai WebGL platformām
+
+**Neliela Spēles programma, kur jāzivairās no krītošiem svariem un jāapēd visi krītošie virtuļi**
